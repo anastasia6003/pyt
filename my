@@ -1,0 +1,4 @@
+import random
+i = ['я люблю читать',"я люблю шоколад","я люблю собак"]
+fact = random.choice(i)
+print(fact)
